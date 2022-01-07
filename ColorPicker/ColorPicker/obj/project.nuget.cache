@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "oQphJDmrR80JOR0qQjUWSCVW9emZPM3KrXSq4+JB7j155IP0T0mXJItlCJ9FUs2CVawMl8qPZ0wKY2CIGfGveA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Caio\\source\\repos\\ColorPicker\\ColorPicker\\ColorPicker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Caio\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\Caio\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
